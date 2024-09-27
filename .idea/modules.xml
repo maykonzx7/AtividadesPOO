@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Task 2/AnalisarString/AnalisarString.iml" filepath="$PROJECT_DIR$/Task 2/AnalisarString/AnalisarString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 2/MaiorValor/MaiorValor.iml" filepath="$PROJECT_DIR$/Task 2/MaiorValor/MaiorValor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 3/Manipulacao com 5 nomes/Manipulacao com 5 nomes.iml" filepath="$PROJECT_DIR$/Task 3/Manipulacao com 5 nomes/Manipulacao com 5 nomes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 1/Task 1.iml" filepath="$PROJECT_DIR$/Task 1/Task 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 2/Task 2.iml" filepath="$PROJECT_DIR$/Task 2/Task 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 3/Valores maiores que 3/Valores maiores que 3.iml" filepath="$PROJECT_DIR$/Task 3/Valores maiores que 3/Valores maiores que 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/atividadesPOO.iml" filepath="$PROJECT_DIR$/.idea/atividadesPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 3/Loop/loop For com numeros pares/loop For com numeros pares.iml" filepath="$PROJECT_DIR$/Task 3/Loop/loop For com numeros pares/loop For com numeros pares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 3/Loop/loop While com numeros pares/loop While com numeros pares.iml" filepath="$PROJECT_DIR$/Task 3/Loop/loop While com numeros pares/loop While com numeros pares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 3/Loop/loop for/loop for.iml" filepath="$PROJECT_DIR$/Task 3/Loop/loop for/loop for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 3/Loop/loop while/loop while.iml" filepath="$PROJECT_DIR$/Task 3/Loop/loop while/loop while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 3/Loop/numeros impares com While/numeros impares com While.iml" filepath="$PROJECT_DIR$/Task 3/Loop/numeros impares com While/numeros impares com While.iml" />
+    </modules>
+  </component>
+</project>
